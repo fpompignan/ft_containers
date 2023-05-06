@@ -2,11 +2,10 @@
 
 42 project, the implementation of templated classes that behave exactly like the C++ 98 STL containers.
 
-## Final grade : 125/125
+## Final grade : 100/00
 
 Mandatory part : 100/100
 
-Bonus : 25/25
 
 ### The containers
 
